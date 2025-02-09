@@ -6,7 +6,7 @@
 <div>🌱 I’m currently learning how to incorporate AI into my work flow and brushing up on DS & As.</div>
 <div>💬 Ask me about weightlifting, nutrition, digital nomading and/or frontend development.</div>
 
-<ul>⚡  Fun facts:
+<p>⚡  Fun facts:</p>
 <li>My first car was a Ford Gran Torino from the Starsky and Hutch movie.</li>
 <li>I have a beautiful standard poodle named Coco 🐩</li>
 </ul>
