@@ -6,4 +6,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/robertcrocker/
 - ⚡  Fun facts: My first car was a Ford Gran Torino from the Starsky and Hutch movie. I have a beautiful standard poodle named Coco 🐩
 
-[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robcrock)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robcrock)](https://github.com/anuraghazra/github-readme-stats&theme=dark&show_icons=true)
