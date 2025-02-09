@@ -1,10 +1,8 @@
 ## Hi there, I'm Robert 👋
 
----
-
 ### A passionate frontend developer aiming to improve User Experiences in everything I do.
 
-- 🧬 I am a senior front-end engineer at [Helix](helix.com)
+<div>🧬 I am a senior front-end engineer at <a href='https://www.helix.com'>Helix</a></div>
 - 🌱 I’m currently learning how to incorporate AI into my work flow and brushing up on DS & As.
 - 💬 Ask me about weightlifting, nutrition, digital nomading and/or frontend development.
 
